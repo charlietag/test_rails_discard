@@ -12,3 +12,6 @@ Things you may want to cover:
 
 * Gems
   * discard
+
+* Changes
+  * https://github.com/charlietag/test_rails_discard/compare/v0.0.0...master
